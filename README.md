@@ -1,0 +1,1 @@
+Repositório para revisão e aprendizados sobre Deep Learning utilizando principalmente Python, PyTorch e Tensorflow.
